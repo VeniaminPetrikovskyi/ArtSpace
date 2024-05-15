@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mona_lisa_paint">Mona Lisa</string>
+    <string name="mona_lisa_author">Leonardo Da Vinci</string>
+    <string name="mona_lisa_year">1503</string>
+    <string name="scream_paint">Der Schrei der Natur</string>
+    <string name="scream_author">Edvard Munch</string>
+    <string name="scream_year">1893</string>
+    <string name="starry_night_paint">The Starry Night</string>
+    <string name="starry_night_author">Vincent Van Gogh</string>
+    <string name="starry_night_year">1889</string>
+</resources>
